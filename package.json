@@ -1,0 +1,25 @@
+{
+  "name": "bot1",
+  "version": "1.0.0",
+  "description": "sans",
+  "main": "index.js",
+  "scripts": {
+    "test": "!sans"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sansa121/sansbot.git"
+  },
+  "keywords": [
+    "sans"
+  ],
+  "author": "Adan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sansa121/sansbot/issues"
+  },
+  "homepage": "https://github.com/sansa121/sansbot#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
